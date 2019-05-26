@@ -1,0 +1,2686 @@
+Xsession: X session started for ubuntu at Sat May 11 14:54:27 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[14925]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[14926]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:14918): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:14918): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-9-19:10, Does it exist? Permissions issue?
+
+(xfce4-panel:14932): GdkPixbuf-WARNING **: Cannot open pixbuf loader module file '/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache': No such file or directory
+
+This likely means that your installation is broken.
+Try running the command
+  gdk-pixbuf-query-loaders > /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache
+to make things work again for the time being.
+
+(xfsettingsd:14938): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:14928): GdkPixbuf-WARNING **: Cannot open pixbuf loader module file '/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache': No such file or directory
+
+This likely means that your installation is broken.
+Try running the command
+  gdk-pixbuf-query-loaders > /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache
+to make things work again for the time being.
+
+(xfce4-panel:14932): Wnck-CRITICAL **: wnck_workspace_is_virtual: assertion 'WNCK_IS_WORKSPACE (space)' failed
+process 14941: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(light-locker:14941): GdkPixbuf-WARNING **: Cannot open pixbuf loader module file '/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache': No such file or directory
+
+This likely means that your installation is broken.
+Try running the command
+  gdk-pixbuf-query-loaders > /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache
+to make things work again for the time being.
+
+(nm-applet:14937): GdkPixbuf-WARNING **: Cannot open pixbuf loader module file '/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache': No such file or directory
+
+This likely means that your installation is broken.
+Try running the command
+  gdk-pixbuf-query-loaders > /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache
+to make things work again for the time being.
+
+(xfwm4:14928): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:14937): nm-applet-WARNING **: failed loading default-icon: Image type 'png' is not supported
+
+(nm-applet:14937): nm-applet-WARNING **: failed to load icon "nm-device-wired": Unrecognized image file format
+
+(nm-applet:14937): GLib-GObject-CRITICAL **: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+
+(nm-applet:14937): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(xfdesktop:14936): GdkPixbuf-WARNING **: Cannot open pixbuf loader module file '/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache': No such file or directory
+
+This likely means that your installation is broken.
+Try running the command
+  gdk-pixbuf-query-loaders > /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache
+to make things work again for the time being.
+
+(xfdesktop:14936): Gtk-WARNING **: Error loading theme icon 'image-missing' for stock: Unrecognized image file format
+
+(google-chrome-stable:20220): GdkPixbuf-WARNING **: Cannot open pixbuf loader module file '/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache': No such file or directory
+
+This likely means that your installation is broken.
+Try running the command
+  gdk-pixbuf-query-loaders > /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache
+to make things work again for the time being.
+
+(google-chrome-stable:20243): GdkPixbuf-WARNING **: Cannot open pixbuf loader module file '/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache': No such file or directory
+
+This likely means that your installation is broken.
+Try running the command
+  gdk-pixbuf-query-loaders > /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache
+to make things work again for the time being.
+
+(Thunar:14934): GdkPixbuf-WARNING **: Cannot open pixbuf loader module file '/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache': No such file or directory
+
+This likely means that your installation is broken.
+Try running the command
+  gdk-pixbuf-query-loaders > /usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders.cache
+to make things work again for the time being.
+
+(Thunar:14934): Gtk-WARNING **: Error loading theme icon 'image-missing' for stock: Unrecognized image file format
+
+(Thunar:14934): Gtk-WARNING **: Error loading theme icon 'image-missing' for stock: Unrecognized image file format
+
+(Thunar:14934): Gtk-WARNING **: Error loading theme icon 'image-missing' for stock: Unrecognized image file format
+
+(Thunar:14934): Gtk-WARNING **: Error loading theme icon 'go-previous' for stock: Unrecognized image file format
+
+(Thunar:14934): Gtk-WARNING **: Error loading theme icon 'go-next' for stock: Unrecognized image file format
+
+** (Thunar:14934): WARNING **: Pixbuf theme: Cannot load pixmap file /usr/share/themes/Greybird/gtk-2.0/resize_grip.png: Couldn't recognize the image file format for file '/usr/share/themes/Greybird/gtk-2.0/resize_grip.png'
+
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Pixbuf theme: Cannot load pixmap file /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png: Couldn't recognize the image file format for file '/usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png'
+
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png,
+borders don't fit within the image
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png,
+borders don't fit within the image
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png,
+borders don't fit within the image
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png,
+borders don't fit within the image
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png,
+borders don't fit within the image
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png,
+borders don't fit within the image
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[20384:20384:0511/145850.356134:ERROR:sandbox_linux.cc(375)] InitializeSandbox() called with multiple threads in process gpu-process.
+[20383:20383:0511/145850.356618:ERROR:sandbox_linux.cc(375)] InitializeSandbox() called with multiple threads in process gpu-process.
+[20220:20220:0511/145851.480914:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145851.483554:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145851.637935:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145851.639170:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145851.879676:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145851.881352:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145852.000719:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145852.002172:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145852.007080:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145852.008692:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+Created new window in existing browser session.
+[20220:20220:0511/145852.045854:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145852.055302:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145852.059827:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145852.061518:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145852.071916:ERROR:gpu_process_transport_factory.cc(1019)] Lost UI shared context.
+[20220:20220:0511/145852.132124:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145852.132454:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145852.132479:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+[20220:20220:0511/145852.133742:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145852.133968:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145852.133991:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145852.135034:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145852.135057:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+[20220:20220:0511/145852.144403:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145852.144594:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145852.144617:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+[20220:20220:0511/145852.145877:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145852.146045:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145852.146067:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145852.147282:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/145852.147310:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+[20220:20377:0511/145856.338619:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[20220:20377:0511/145856.412210:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[20220:20377:0511/145856.450146:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[20220:20377:0511/145856.511591:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[20220:20377:0511/145856.561614:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[20220:20377:0511/145856.583738:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png,
+borders don't fit within the image
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png,
+borders don't fit within the image
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150006.773835:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150006.776034:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png,
+borders don't fit within the image
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150006.786685:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150006.786931:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150006.786959:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+[20220:20220:0511/150006.788367:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150006.788535:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150006.788558:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150006.789556:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150006.789579:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+[20220:20220:0511/150013.754969:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150013.756440:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150013.764365:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150013.764675:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150013.764704:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+[20220:20220:0511/150013.766305:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150013.766601:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150013.766639:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150013.768074:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150013.768100:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+[20220:20220:0511/150017.708999:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150017.710906:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150017.714988:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150017.716887:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150017.725404:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150017.725594:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150017.725617:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+[20220:20220:0511/150017.727088:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150017.727320:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150017.727349:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150017.728402:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150017.728424:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+[20220:20220:0511/150019.424474:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150019.426338:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150021.308097:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150021.309562:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150021.315826:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150021.316168:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150021.316205:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+[20220:20220:0511/150021.318879:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150021.319181:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150021.319214:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150021.320510:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150021.320541:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+[20220:20220:0511/150022.912278:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150022.913971:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150022.918452:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150022.918761:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150022.918787:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+[20220:20220:0511/150022.920357:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150022.920606:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150022.920636:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150022.921909:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150022.921937:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png,
+borders don't fit within the image
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png,
+borders don't fit within the image
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png,
+borders don't fit within the image
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png,
+borders don't fit within the image
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): Gtk-WARNING **: Error loading theme icon 'image-missing' for stock: Unrecognized image file format
+
+(Thunar:14934): Gtk-WARNING **: Error loading theme icon 'image-missing' for stock: Unrecognized image file format
+
+(Thunar:14934): Gtk-WARNING **: Error loading theme icon 'image-missing' for stock: Unrecognized image file format
+
+(Thunar:14934): Gtk-WARNING **: Error loading theme icon 'image-missing' for stock: Unrecognized image file format
+
+(Thunar:14934): Gtk-WARNING **: Error loading theme icon 'image-missing' for stock: Unrecognized image file format
+
+(Thunar:14934): Gtk-WARNING **: Error loading theme icon 'image-missing' for stock: Unrecognized image file format
+
+(Thunar:14934): Gtk-WARNING **: Error loading theme icon 'go-previous' for stock: Unrecognized image file format
+
+(Thunar:14934): Gtk-WARNING **: Error loading theme icon 'go-next' for stock: Unrecognized image file format
+
+(Thunar:14934): Gtk-WARNING **: Error loading theme icon 'image-missing' for stock: Unrecognized image file format
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png,
+borders don't fit within the image
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png,
+borders don't fit within the image
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150119.864378:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150119.866085:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150119.872291:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150119.872480:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150119.872504:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+[20220:20220:0511/150119.873759:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150119.873928:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150119.873950:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150119.874937:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150119.874960:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png,
+borders don't fit within the image
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png,
+borders don't fit within the image
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150132.437149:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150132.438604:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150132.442621:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150132.442823:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150132.442836:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png,
+borders don't fit within the image
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150132.457635:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150132.459389:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150132.459406:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150132.462156:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150132.462173:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+[20220:20220:0511/150142.677619:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150142.679262:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150142.690281:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150142.690579:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150142.690611:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+[20220:20220:0511/150142.692106:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150142.692293:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150142.692316:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150142.693353:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150142.693376:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png,
+borders don't fit within the image
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png,
+borders don't fit within the image
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150157.916397:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150157.918121:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150157.933269:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150157.933472:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150157.933496:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+[20220:20220:0511/150157.934755:ERROR:browser_main_loop.cc(333)] Gtk: gtk_icon_info_load_symbolic_for_context: assertion 'icon_info != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150157.934936:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150157.934959:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(google-chrome-stable:20220): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150157.936205:ERROR:browser_main_loop.cc(333)] Gdk: gdk_cairo_surface_create_from_pixbuf: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+[20220:20220:0511/150157.936229:ERROR:browser_main_loop.cc(333)] Gtk: gtk_css_style_render_icon_surface: assertion 'surface != NULL' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png,
+borders don't fit within the image
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png,
+borders don't fit within the image
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png,
+borders don't fit within the image
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (Thunar:14934): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Greybird/gtk-2.0/apps/thunar/sidebar_active.png,
+borders don't fit within the image
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(Thunar:14934): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(xfsettingsd:14938): GLib-GObject-WARNING **: g_object_notify: object class 'UpClient' has no property named 'g-name-owner'
+xfce4-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfce4-panel: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+Thunar: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+gpg-agent[14926]: SIGHUP received - re-reading configuration and flushing cache
+gpg-agent[14926]: option file '/home/ubuntu/.gnupg/gpg-agent.conf': No such file or directory
+gpg-agent[14926]: SIGTERM received - shutting down ...
+gpg-agent[14926]: gpg-agent (GnuPG) 2.1.11 stopped
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+Xsession: X session started for ubuntu at Sun May 12 14:09:21 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[2871]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[2872]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:2864): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:2864): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-9-19:10, Does it exist? Permissions issue?
+process 2884: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(xfsettingsd:2895): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:2874): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:2883): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+xfce4-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+gpg-agent[2872]: SIGHUP received - re-reading configuration and flushing cache
+gpg-agent[2872]: option file '/home/ubuntu/.gnupg/gpg-agent.conf': No such file or directory
+gpg-agent[2872]: SIGTERM received - shutting down ...
+gpg-agent[2872]: gpg-agent (GnuPG) 2.1.11 stopped
+xfwm4: Fatal IO error 104 (Connection reset by peer) on X server :10.0.
+Xsession: X session started for ubuntu at Sun May 12 15:20:21 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[1902]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[1903]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:1895): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:1895): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-9-19:10, Does it exist? Permissions issue?
+
+(xfsettingsd:1915): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+process 1916: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(xfwm4:1905): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:1914): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(xfsettingsd:1915): GLib-GObject-WARNING **: g_object_notify: object class 'UpClient' has no property named 'g-name-owner'
+xfce4-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+gpg-agent[1903]: SIGHUP received - re-reading configuration and flushing cache
+gpg-agent[1903]: option file '/home/ubuntu/.gnupg/gpg-agent.conf': No such file or directory
+gpg-agent[1903]: SIGTERM received - shutting down ...
+gpg-agent[1903]: gpg-agent (GnuPG) 2.1.11 stopped
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+Xsession: X session started for ubuntu at Sun May 12 17:10:27 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[1911]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[1912]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:1904): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:1904): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-9-19:10, Does it exist? Permissions issue?
+process 1924: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(xfsettingsd:1925): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:1914): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:1923): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+xfce4-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+Thunar: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+
+(xfwm4:1914): libxfce4ui-WARNING **: ICE I/O Error
+
+(xfwm4:1914): libxfce4ui-WARNING **: Disconnected from session manager.
+gpg-agent[1912]: SIGHUP received - re-reading configuration and flushing cache
+gpg-agent[1912]: option file '/home/ubuntu/.gnupg/gpg-agent.conf': No such file or directory
+gpg-agent[1912]: SIGTERM received - shutting down ...
+gpg-agent[1912]: gpg-agent (GnuPG) 2.1.11 stopped
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+Xsession: X session started for ubuntu at Sat May 18 12:14:06 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[11166]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[11167]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:11159): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:11159): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-9-19:10, Does it exist? Permissions issue?
+process 11180: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(xfsettingsd:11179): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:11169): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:11178): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(xfsettingsd:11179): GLib-GObject-WARNING **: g_object_notify: object class 'UpClient' has no property named 'g-name-owner'
+xfce4-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfce4-panel: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+gpg-agent[11167]: SIGHUP received - re-reading configuration and flushing cache
+gpg-agent[11167]: option file '/home/ubuntu/.gnupg/gpg-agent.conf': No such file or directory
+gpg-agent[11167]: SIGTERM received - shutting down ...
+gpg-agent[11167]: gpg-agent (GnuPG) 2.1.11 stopped
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+Xsession: X session started for ubuntu at Sat May 18 17:22:30 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[1908]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[1909]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:1901): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:1901): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-9-19:10, Does it exist? Permissions issue?
+
+(xfsettingsd:1924): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+process 1921: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(xfwm4:1911): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:1920): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[2098:2098:0518/172249.945197:ERROR:sandbox_linux.cc(375)] InitializeSandbox() called with multiple threads in process gpu-process.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[2161:2161:0518/172250.395659:ERROR:sandbox_linux.cc(375)] InitializeSandbox() called with multiple threads in process gpu-process.
+[2044:2044:0518/172250.556190:ERROR:gpu_process_transport_factory.cc(1019)] Lost UI shared context.
+Created new window in existing browser session.
+[2044:2168:0518/172251.767748:ERROR:simple_index_file.cc(292)] Could not create a directory to hold the index file
+[2044:2082:0518/172252.338825:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2044:2082:0518/172252.545695:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2044:2082:0518/172252.555321:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2044:2082:0518/172252.614490:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2044:2082:0518/172252.620629:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2044:2082:0518/172252.705715:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2044:2082:0518/175819.353603:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2044:2082:0518/175819.383770:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2044:2082:0518/175819.421609:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2044:2044:0518/175827.721253:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 19
+[2044:2044:0518/180228.885951:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 23
+
+(xfsettingsd:1924): GLib-GObject-WARNING **: g_object_notify: object class 'UpClient' has no property named 'g-name-owner'
+gpg-agent[1909]: SIGTERM received - shutting down ...
+gpg-agent[1909]: gpg-agent (GnuPG) 2.1.11 stopped
+
+(xfce4-panel:1915): libxfce4ui-WARNING **: ICE I/O Error
+
+(xfce4-panel:1915): libxfce4ui-WARNING **: Disconnected from session manager.
+
+(xfsettingsd:1924): libxfce4ui-WARNING **: ICE I/O Error
+
+(xfsettingsd:1924): libxfce4ui-WARNING **: Disconnected from session manager.
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+Xsession: X session started for ubuntu at Sun May 19 14:12:49 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[2635]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[2636]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:2628): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:2628): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-9-19:10, Does it exist? Permissions issue?
+process 2648: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(xfsettingsd:2660): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:2638): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:2647): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[3173:3173:0519/141351.133996:ERROR:sandbox_linux.cc(375)] InitializeSandbox() called with multiple threads in process gpu-process.
+[3097:3097:0519/141352.345534:ERROR:gpu_process_transport_factory.cc(1019)] Lost UI shared context.
+[3097:3160:0519/141354.178150:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3097:3160:0519/141354.201399:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3097:3160:0519/141354.244746:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3097:3160:0519/141514.703591:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3097:3160:0519/141514.711257:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3097:3160:0519/141514.736384:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3097:3160:0519/141616.291749:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3097:3160:0519/141616.323870:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3097:3160:0519/141616.378551:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+xfce4-session-Message: Got disconnected from D-Bus.  Unless this happened during session shutdown, this is probably a bad thing.
+** Message: Got disconnected from the session message bus; retrying to reconnect every 10 seconds
+gpg-agent[2636]: SIGHUP received - re-reading configuration and flushing cache
+gpg-agent[2636]: option file '/home/ubuntu/.gnupg/gpg-agent.conf': No such file or directory
+gpg-agent[2636]: SIGTERM received - shutting down ...
+gpg-agent[2636]: gpg-agent (GnuPG) 2.1.11 stopped
+
+(xfwm4:2638): libxfce4ui-WARNING **: ICE I/O Error
+
+(xfwm4:2638): libxfce4ui-WARNING **: Disconnected from session manager.
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+Xsession: X session started for ubuntu at Sun May 19 17:09:02 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[2024]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[2025]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:2017): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:2017): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-9-19:10, Does it exist? Permissions issue?
+process 2039: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(xfsettingsd:2040): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:2027): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:2036): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[2204:2204:0519/170916.668886:ERROR:sandbox_linux.cc(375)] InitializeSandbox() called with multiple threads in process gpu-process.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[2280:2280:0519/170917.771936:ERROR:sandbox_linux.cc(375)] InitializeSandbox() called with multiple threads in process gpu-process.
+[2161:2161:0519/170917.917980:ERROR:gpu_process_transport_factory.cc(1019)] Lost UI shared context.
+Created new window in existing browser session.
+[2161:2199:0519/170919.322596:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2161:2199:0519/170919.353103:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2161:2199:0519/170919.377090:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2161:2199:0519/170919.379565:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2161:2199:0519/170919.454823:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2161:2199:0519/170919.524553:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2161:2161:0519/170927.370332:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 7
+[2161:2161:0519/180854.216670:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 9
+[2161:2161:0519/180901.047293:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 11
+[2161:2199:0519/181151.326178:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2161:2199:0519/181151.353275:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2161:2199:0519/181151.421213:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+
+(xfsettingsd:2040): GLib-GObject-WARNING **: g_object_notify: object class 'UpClient' has no property named 'g-name-owner'
+
+(xfce4-panel:2031): libxfce4ui-WARNING **: ICE I/O Error
+gpg-agent[2025]: SIGHUP received - re-reading configuration and flushing cache
+gpg-agent[2025]: option file '/home/ubuntu/.gnupg/gpg-agent.conf': No such file or directory
+gpg-agent[2025]: SIGTERM received - shutting down ...
+gpg-agent[2025]: gpg-agent (GnuPG) 2.1.11 stopped
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfwm4: Fatal IO error 104 (Connection reset by peer) on X server :10.0.
+Xsession: X session started for ubuntu at Sat May 25 13:59:58 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[2437]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+
+(xfce4-session:2430): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+gpg-agent[2438]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:2430): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-9-19:10, Does it exist? Permissions issue?
+
+(xfsettingsd:2451): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:2440): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+process 2453: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(nm-applet:2452): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(xfwm4:2440): xfwm4-WARNING **: output size (1232x330) and logical screen size (1340x615) do not match
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[4002:4002:0525/140212.402451:ERROR:sandbox_linux.cc(375)] InitializeSandbox() called with multiple threads in process gpu-process.
+[3951:3951:0525/140213.403810:ERROR:gpu_process_transport_factory.cc(1019)] Lost UI shared context.
+[3951:3989:0525/140215.495397:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3951:3989:0525/140215.507471:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3951:3989:0525/140215.661717:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3951:3989:0525/140857.360188:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3951:3989:0525/140857.368245:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3951:3989:0525/140857.418787:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3951:3989:0525/145800.671428:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3951:3989:0525/145800.696820:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[3951:3989:0525/145800.730694:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+xfce4-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+gpg-agent[2438]: SIGHUP received - re-reading configuration and flushing cache
+gpg-agent[2438]: option file '/home/ubuntu/.gnupg/gpg-agent.conf': No such file or directory
+gpg-agent[2438]: SIGTERM received - shutting down ...
+gpg-agent[2438]: gpg-agent (GnuPG) 2.1.11 stopped
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+Xsession: X session started for ubuntu at Sun May 26 05:23:06 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[2492]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[2493]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:2485): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:2485): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-9-19:10, Does it exist? Permissions issue?
+
+(xfsettingsd:2505): xfsettingsd-WARNING **: Unknown mode '1340x615 @ 50.0' for output rdp0, aborting.
+
+(xfsettingsd:2505): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+process 2508: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(xfwm4:2495): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:2504): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[2719:2719:0526/052348.617526:ERROR:sandbox_linux.cc(375)] InitializeSandbox() called with multiple threads in process gpu-process.
+[2650:2693:0526/052348.730922:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+[2650:2650:0526/052349.667021:ERROR:gpu_process_transport_factory.cc(1019)] Lost UI shared context.
+[2650:2706:0526/052351.232495:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2650:2706:0526/052351.329459:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2650:2706:0526/052351.329967:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2937:2963:0526/052512.504902:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[2991:2991:0526/052512.644188:ERROR:sandbox_linux.cc(375)] InitializeSandbox() called with multiple threads in process gpu-process.
+[2937:2937:0526/052512.772259:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+[2937:2937:0526/052512.783673:ERROR:gpu_process_transport_factory.cc(1019)] Lost UI shared context.
+[1:10:0526/052512.937892:ERROR:command_buffer_proxy_impl.cc(114)] ContextResult::kFatalFailure: Shared memory handle is not valid
+[2937:2975:0526/052513.220262:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2937:2975:0526/052513.258810:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2937:2975:0526/052513.300091:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2937:2975:0526/052624.780607:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2937:2975:0526/052624.783884:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2937:2975:0526/052637.482038:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2937:2975:0526/053012.416743:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2937:2975:0526/053907.774635:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2937:2975:0526/053908.690520:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2937:2975:0526/054134.688684:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2937:2975:0526/054138.747377:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2937:2975:0526/054143.108971:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2937:2975:0526/054145.168451:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2937:2975:0526/054414.690944:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2937:2975:0526/054504.264921:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2937:2975:0526/055715.741221:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2937:2975:0526/055759.037660:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2937:2975:0526/055812.681415:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2937:2975:0526/055815.152590:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2937:2975:0526/055815.811100:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
+[2937:2975:0526/055837.018313:ERROR:upload_data_presenter.cc(73)] Not implemented reached in virtual void extensions::RawDataPresenter::FeedNext(const net::UploadElementReader &)
